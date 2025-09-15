@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... intergration of apps, technologies, realworld issues
 - 💞️ I'm currently working AI, LLMs , Generative AI, LangChain, Amazon BedRock, Anthropic, OpenAI, Meta, Vertex AI, Gemini, and created many spaces on Huggingfaces hub, Created RAG applications with Multiple PDFS, WebSites, and MySQL database - my space -https://huggingface.co/rajapinja
 - 📫 How to reach me ...raja_pinja@yahoo.com / rajapinja@laraidsolutions.com
-- 📫 My Start-up company - http://laraidsolutions.com and looking for funding
+- 📫 My Start-up company - http://laraidsolutions.org and looking for funding
 
 <!---
 rajapinja/rajapinja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
